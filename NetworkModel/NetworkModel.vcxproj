@@ -148,7 +148,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CheckSUM.cpp" />
+    <ClCompile Include="Checksum.cpp" />
     <ClCompile Include="CRCCompute.cpp" />
     <ClCompile Include="NetworkModel.cpp" />
     <ClCompile Include="stdafx.cpp">

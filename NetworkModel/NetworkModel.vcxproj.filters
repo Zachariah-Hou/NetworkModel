@@ -35,7 +35,7 @@
     <ClCompile Include="CRCCompute.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="CheckSUM.cpp">
+    <ClCompile Include="Checksum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
